@@ -1,0 +1,57 @@
+# General
+.#*
+._*
+.DS_Store
+.buildinfo
+*.bak
+*~
+*.setting
+*.pyc
+*.odem
+*.ws
+*.dtd
+*.log*
+*.pid
+*.port
+.gradle/
+build/
+project/
+pom.xml
+pom.xml.asc
+lombok.config
+tmp/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+classes/
+
+# Eclipse
+.project
+.classpath
+.settings/
+out/
+
+# Vagrant
+.vagrant
+local-conf.rb
+cloud-conf
+Vagrantfile
+**/devops/env/local/shared/persistent/*
+
+# Clojure/Leiningen
+checkouts/
+.lein-*
+.nrepl-*
+profiles.clj
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+
+# Svn
+.svn
