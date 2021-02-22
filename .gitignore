@@ -16,7 +16,6 @@
 .gradle/
 build/
 project/
-pom.xml
 pom.xml.asc
 lombok.config
 tmp/
